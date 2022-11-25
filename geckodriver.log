@@ -1,0 +1,124 @@
+1669256441028	geckodriver	INFO	Listening on 127.0.0.1:50424
+1669256444104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileCcF7Fc"
+1669256444418	Marionette	INFO	Marionette enabled
+1669256444423	Marionette	INFO	Listening on port 50455
+Read port: 50455
+WebDriver BiDi listening on ws://127.0.0.1:50425
+1669256444632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileCcF7Fc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50425/devtools/browser/690eabb5-6086-45b6-9a3f-3105240fb926
+1669256458957	Marionette	INFO	Stopped listening on port 50455
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669256530666	geckodriver	INFO	Listening on 127.0.0.1:50592
+1669256533721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50593" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileLia0JZ"
+1669256533963	Marionette	INFO	Marionette enabled
+1669256533967	Marionette	INFO	Listening on port 50605
+WebDriver BiDi listening on ws://127.0.0.1:50593
+Read port: 50605
+1669256534216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileLia0JZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50593/devtools/browser/c1411d20-84e1-4855-949b-5f47e76a0169
+1669256546018	Marionette	INFO	Stopped listening on port 50605
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669256580153	geckodriver	INFO	Listening on 127.0.0.1:50699
+1669256583225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50700" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileKdWM3K"
+1669256583472	Marionette	INFO	Marionette enabled
+1669256583476	Marionette	INFO	Listening on port 50714
+WebDriver BiDi listening on ws://127.0.0.1:50700
+Read port: 50714
+1669256583703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileKdWM3K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50700/devtools/browser/4107d73d-6f13-411a-868d-bce1d20eef68
+1669256595092	Marionette	INFO	Stopped listening on port 50714
+[Parent 26580, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669257262021	geckodriver	INFO	Listening on 127.0.0.1:51386
+1669257265088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileRnZlE3"
+1669257265340	Marionette	INFO	Marionette enabled
+1669257265345	Marionette	INFO	Listening on port 51398
+WebDriver BiDi listening on ws://127.0.0.1:51387
+Read port: 51398
+1669257265517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileRnZlE3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51387/devtools/browser/f0270ecd-cddf-4c05-b016-bb8effaad1a7
+1669257277033	Marionette	INFO	Stopped listening on port 51398
+[Parent 18912, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1669257279665	geckodriver	INFO	Listening on 127.0.0.1:51462
+1669257286825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51463" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofilemFSaKv"
+1669257287075	Marionette	INFO	Marionette enabled
+1669257287079	Marionette	INFO	Listening on port 51480
+WebDriver BiDi listening on ws://127.0.0.1:51463
+Read port: 51480
+1669257287267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofilemFSaKv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51463/devtools/browser/4dfc4654-4892-4821-a6cc-56b3f7955918
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.ebanq.com."
+1669257313794	Marionette	INFO	Stopped listening on port 51480
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669257414255	geckodriver	INFO	Listening on 127.0.0.1:51662
+1669257417338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileG4kdDT"
+1669257417592	Marionette	INFO	Marionette enabled
+1669257417597	Marionette	INFO	Listening on port 51675
+WebDriver BiDi listening on ws://127.0.0.1:51663
+Read port: 51675
+1669257417769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileG4kdDT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51663/devtools/browser/c4a0a369-14a0-474e-91e1-3b8b0c9177ef
+1669257428829	Marionette	INFO	Stopped listening on port 51675
+[Parent 23880, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669257431462	geckodriver	INFO	Listening on 127.0.0.1:51737
+1669257438599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51738" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofile7gPjwZ"
+1669257438841	Marionette	INFO	Marionette enabled
+1669257438844	Marionette	INFO	Listening on port 51754
+WebDriver BiDi listening on ws://127.0.0.1:51738
+Read port: 51754
+1669257439077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofile7gPjwZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51738/devtools/browser/e12dc0b2-d037-4834-a7aa-b28c6af0012e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.ebanq.com."
+1669257455813	Marionette	INFO	Stopped listening on port 51754
+[Parent 22544, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669257971031	geckodriver	INFO	Listening on 127.0.0.1:52247
+1669257974105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofiled4NTB7"
+1669257974360	Marionette	INFO	Marionette enabled
+1669257974365	Marionette	INFO	Listening on port 52261
+WebDriver BiDi listening on ws://127.0.0.1:52248
+Read port: 52261
+1669257974595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofiled4NTB7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52248/devtools/browser/724bd9d6-c816-4e62-8260-0227d37c7cfc
+1669257986687	Marionette	INFO	Stopped listening on port 52261
+1669257989333	geckodriver	INFO	Listening on 127.0.0.1:52321
+1669257996455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52322" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileGZw26R"
+1669257996694	Marionette	INFO	Marionette enabled
+1669257996697	Marionette	INFO	Listening on port 52339
+WebDriver BiDi listening on ws://127.0.0.1:52322
+Read port: 52339
+1669257996934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileGZw26R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52322/devtools/browser/0528ea87-1cb7-4a31-ba6f-528d129858c3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.ebanq.com."
+1669258013458	Marionette	INFO	Stopped listening on port 52339
+[Parent 25596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669258226053	geckodriver	INFO	Listening on 127.0.0.1:52561
+1669258229126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52562" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileDswefj"
+1669258229377	Marionette	INFO	Marionette enabled
+1669258229381	Marionette	INFO	Listening on port 52574
+WebDriver BiDi listening on ws://127.0.0.1:52562
+Read port: 52574
+1669258229626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileDswefj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52562/devtools/browser/01dc7d19-7065-409e-9c4e-ca15cc3850d4
+1669258241125	Marionette	INFO	Stopped listening on port 52574
+[Parent 22436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1669258247873	geckodriver	INFO	Listening on 127.0.0.1:52640
+1669258250920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileNHWvVK"
+1669258251161	Marionette	INFO	Marionette enabled
+1669258251165	Marionette	INFO	Listening on port 52652
+WebDriver BiDi listening on ws://127.0.0.1:52641
+Read port: 52652
+1669258251402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\timur\\AppData\\Local\\Temp\\rust_mozprofileNHWvVK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52641/devtools/browser/698fb668-fa5f-4b19-9822-f0738a43871f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.ebanq.com."
+1669258268318	Marionette	INFO	Stopped listening on port 52652
+[Parent 21768, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
